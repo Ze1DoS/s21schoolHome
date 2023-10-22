@@ -1,3 +1,6 @@
+I apologize for the error. The `is_regex_pattern` variable is indeed unused in the code. You can remove it to resolve the compilation error. Here's the updated code:
+
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -118,9 +121,6 @@ int main(int argc, char* argv[]) {
     // Парсим паттерн
     const char* pattern = argv[i];
 
-    // Проверяем, является ли паттерн регулярным выражением
-    int is_regex_pattern = is_regex(pattern);
-
     // Перебираем файлы для поиска совпадений
     for (i = i + 1; i < argc; i++) {
         const char* filename = argv[i];
@@ -131,3 +131,6 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
+```
+
+After making this change, you should be able to compile the code without any errors.
