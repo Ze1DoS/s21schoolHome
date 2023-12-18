@@ -1,0 +1,2 @@
+Name, Age, Location Alice, 25, New York Bob, 30, Los Angeles Charlie, 22,
+    Chicago

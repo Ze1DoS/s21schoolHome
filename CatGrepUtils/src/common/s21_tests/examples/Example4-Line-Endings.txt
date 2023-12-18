@@ -1,0 +1,8 @@
+This file has Unix -
+    style line endings.
+
+    This file has Windows -
+    style line endings.
+
+    This file has Mac -
+    style line endings.

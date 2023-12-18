@@ -1,0 +1,2 @@
+This is a simple text file.It contains multiple lines.No special characters or
+    indentations.

@@ -1,0 +1,4 @@
+This file contains special characters : @,
+                                        $,
+                                        %
+    , #, &.You can test how cat handles them.
